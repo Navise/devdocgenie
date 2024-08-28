@@ -1,8 +1,8 @@
 # **DevDocGenie React Documentaton Assistant** ##
 
-## DevDocGenie is a Retrieval Augmented Generation (RAG) application which uses large language model to revolutionizes API documentation access for developers by addressing a critical gap in existing ##LLM-based AI tools. Traditional tools often rely on outdated versions of API documentation, which can be problematic given the rapid evolution of popular libraries and frameworks.
+### DevDocGenie is a Retrieval Augmented Generation (RAG) application which uses large language model to revolutionizes API documentation access for developers by addressing a critical gap in existing LLM-based AI tools. Traditional tools often rely on outdated versions of API documentation, which can be problematic given the rapid evolution of popular libraries and frameworks. ###
 
-## This application uses the latest react documentation as a context to the Large Language Model.
+### This application uses the latest react documentation as a context to the Large Language Model. ###
 
 ## Installation
 
