@@ -1,10 +1,10 @@
-# **DevDocGenie React Documentaton Assistant **
+# **DevDocGenie React Documentaton Assistant** ##
 
 ## DevDocGenie is a Retrieval Augmented Generation (RAG) application which uses large language model to revolutionizes API documentation access for developers by addressing a critical gap in existing ##LLM-based AI tools. Traditional tools often rely on outdated versions of API documentation, which can be problematic given the rapid evolution of popular libraries and frameworks.
 
 ## This application uses the latest react documentation as a context to the Large Language Model.
 
-## **Installation **
+## Installation
 
 1. **Clone the Repository**:
    ```bash
@@ -42,18 +42,18 @@
     streamlit run chatapp.py
     ```
 
-## **Usage**
+## **Usage** ##
 1. Start the application by running the command above.
 2. Type in your questions related to React documentation, and the chatbot will provide answers.
 3. Type exit or quit to end the session.
 
-## ** CLI Screenshot ** ##
+## **CLI Screenshot** ##
 
 ![cli screenshot image](Screenshots/cli1.png)
 
 ![cli screenshot image](Screenshots/cli2.png)
 
-## ** Streamlit webapp Screenshot ** ##
+## **Streamlit webapp Screenshot** ##
 
 ![streamlit screenshot image](Screenshots/st1.png)
 
